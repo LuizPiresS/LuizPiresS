@@ -1,16 +1,24 @@
-### Hi there 👋
+# <a href="https://www.linkedin.com/in/luiz-pires/">Luiz Pires</a>
 
-<!--
-**luizjesuz/luizjesuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> ## About Me
 
-Here are some ideas to get you started:
+Comecei a desenvolver em 2002, com PHP 4 e Delphi 7, trabalhei diretamente com desenvolvimento até 2009, quando decidi abandonar o desenvolvimento para me tornar chef de cozinha. No início de 2019, vendi meu restaurante e voltei para a área de desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hoje sou Backend Developer usando Typescript aplicando conceitos como TDD, Clean Architecture, Clean Code e princípios SOLID.
+
+Faço o curso de Analise e Desenvolvimento de Sistemas na UCPEL foco minhas pesquisas em Arquitetura e Design de sistemas com enfase em desenvolvimento de produtos.
+
+## Technologies and techniques
+
+- Backend com NodeJS, Express, SQL, Typeorm
+- Modelagem de sistemas com UML e DER
+- Clean Architecture, Clean Code
+
+## Contact Me
+
+- <a href="https://www.linkedin.com/in/luiz-pires/">Linkedin</a>
+- <a href="mailto:luizjesuz.p@gmail.com">E-mail</a>
+- <a href="https://www.twitch.tv/programadorranzinza">Canal Twitch</a>
+- <a href="https://www.youtube.com/channel/UCYpnvw92nOfXDz0MftuNJOg">Canal Youtube</a>
+- <a href="https://www.instagram.com/dev_ranzinza/">Instagram</a>
+</div>
