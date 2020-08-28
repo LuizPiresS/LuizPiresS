@@ -8,6 +8,8 @@ Hoje sou Backend Developer usando Typescript aplicando conceitos como TDD, Clean
 
 Faço o curso de Analise e Desenvolvimento de Sistemas na UCPEL foco minhas pesquisas em Arquitetura e Design de sistemas com enfase em desenvolvimento de produtos.
 
+Administrador da comunidade TavernaDev hoje estamos com o projeto TavernaCast que é gravado toda sexta as 20:30 no canal https://www.twitch.tv/tavernadev 
+
 ## Technologies and techniques
 
 - Backend com NodeJS, Express, SQL, Typeorm
