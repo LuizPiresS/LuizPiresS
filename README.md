@@ -12,9 +12,10 @@ Administrador da comunidade TavernaDev hoje estamos com o projeto TavernaCast qu
 
 ## Technologies and techniques
 
-- Backend com NodeJS, Express, SQL, Typeorm
+- Backend com NodeJS, Express, SQL, Typeorm, PHP
 - Modelagem de sistemas com UML e DER
 - Clean Architecture, Clean Code
+- Docker
 
 ## Contact Me
 
