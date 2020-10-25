@@ -8,8 +8,6 @@ Hoje sou Backend Developer usando Typescript aplicando conceitos como TDD, Clean
 
 Faço o curso de Analise e Desenvolvimento de Sistemas na UCPEL foco minhas pesquisas em Arquitetura e Design de sistemas com enfase em desenvolvimento de produtos.
 
-Administrador e um dos fundadores da comunidade TavernaDev https://www.twitch.tv/tavernadev
-
 ## Technologies and techniques
 
 - Backend com NodeJS, Express, SQL, Typeorm, PHP
@@ -20,6 +18,7 @@ Administrador e um dos fundadores da comunidade TavernaDev https://www.twitch.tv
 ## Contact Me
 
 - <a href="https://www.linkedin.com/in/luiz-pires/">Linkedin</a>
+- <a href="https://dev.to/luizpiress">Dev.to</a>
 - <a href="mailto:luizjesuz.p@gmail.com">E-mail</a>
 - <a href="https://www.twitch.tv/programadorranzinza">Canal Twitch</a>
 - <a href="https://www.youtube.com/channel/UCYpnvw92nOfXDz0MftuNJOg">Canal Youtube</a>
