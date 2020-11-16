@@ -2,6 +2,8 @@
 
 > ## About Me
 
+Desenvolvedor node Compasso UOL
+
 Comecei a desenvolver em 2002, com PHP 4 e Delphi 7, trabalhei diretamente com desenvolvimento até 2009, quando decidi abandonar o desenvolvimento para me tornar chef de cozinha. No início de 2019, vendi meu restaurante e voltei para a área de desenvolvimento.
 
 Hoje sou Backend Developer usando Typescript aplicando conceitos como TDD, Clean Architecture, Clean Code e princípios SOLID.
