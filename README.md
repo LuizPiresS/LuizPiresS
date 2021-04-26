@@ -2,13 +2,9 @@
 
 > ## About Me
 
-Desenvolvedor node Compasso UOL
+Chatbot Developer in Compasso UOL
 
-Comecei a desenvolver em 2002, com PHP 4 e Delphi 7, trabalhei diretamente com desenvolvimento até 2009, quando decidi abandonar o desenvolvimento para me tornar chef de cozinha. No início de 2019, vendi meu restaurante e voltei para a área de desenvolvimento.
-
-Hoje sou Backend Developer usando Typescript aplicando conceitos como TDD, Clean Architecture, Clean Code e princípios SOLID.
-
-Faço o curso de Analise e Desenvolvimento de Sistemas na UCPEL foco minhas pesquisas em Arquitetura e Design de sistemas com enfase em desenvolvimento de produtos.
+| Chatbot Developer | Dialogflow | Oracle Digital Assistant | Node | Python |
 
 ## Technologies and techniques
 
@@ -16,6 +12,9 @@ Faço o curso de Analise e Desenvolvimento de Sistemas na UCPEL foco minhas pesq
 - Modelagem de sistemas com UML e DER
 - Clean Architecture, Clean Code
 - Docker
+- Dialogflow
+- Oracle Digital Assistan
+- Python
 
 ## Contact Me
 
