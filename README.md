@@ -2,7 +2,7 @@
 
 > ## About Me
 
-Chatbot Developer in Compasso UOL
+Chatbot Developer/tribe lead at Compasso UOL
 
 | Chatbot Developer | Dialogflow | Oracle Digital Assistant | Node | Python |
 
