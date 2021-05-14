@@ -4,7 +4,7 @@
 
 Tribe Lead/Chatbot Developer at Compasso UOL
 
-| Chatbot Developer | Dialogflow | Oracle Digital Assistant | Node | Python |
+| Tribe Lead | Chatbot Developer | ODA | Node | Typescript | Python |
 
 ## Technologies and techniques
 
