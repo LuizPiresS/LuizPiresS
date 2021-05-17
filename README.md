@@ -2,7 +2,7 @@
 
 > ## About Me
 
-Tribe Lead/Chatbot Developer at Compasso UOL
+Chatbot Developer at Compasso UOL
 
 | Tribe Lead | Chatbot Developer | ODA | Node | Typescript | Python |
 
