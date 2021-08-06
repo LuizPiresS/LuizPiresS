@@ -4,7 +4,9 @@
 
 Chatbot Developer at Compasso UOL
 
-| Tribe Lead | Chatbot Developer | ODA | Node | Typescript | Python |
+Eu não to velho só um pouco judiado, minha caveira é de um verde desbotado ...
+
+Baruk Khazâd! Khazâd ai-mênu!
 
 ## Technologies and techniques
 
