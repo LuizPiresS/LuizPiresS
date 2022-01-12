@@ -1,5 +1,6 @@
 # <a href="https://www.linkedin.com/in/luiz-pires/">Luiz Pires</a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizPiresS)](https://github.com/LuizPiresS)
+[![Luiz Jesuz GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizPiresS)](https://github.com/LuizPiresS)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPiresS)](https://github.com/LuizPiresS)
 > ## About Me
 
 Back end Developer at Compasso UOL
