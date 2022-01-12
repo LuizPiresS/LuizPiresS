@@ -1,5 +1,5 @@
 # <a href="https://www.linkedin.com/in/luiz-pires/">Luiz Pires</a>
-[![Luiz Jesuz GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizPiresS)](https://github.com/LuizPiresS)
+[![Luiz Jesuz GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizPiresS&show_icons=true&theme=gruvbox)](https://github.com/LuizPiresS)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPiresS&layout=compact&show_icons=true&theme=gruvbox)](https://github.com/LuizPiresS)
 > ## About Me
 
