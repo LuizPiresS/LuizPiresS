@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPiresS&layout=compact&show_icons=true&theme=gruvbox)](https://github.com/LuizPiresS)
 > ## About Me
 
-Back end Developer at Compasso UOL
+Software Engineer at Semantix
 
 Eu não to velho só um pouco judiado, minha caveira é de um verde desbotado ...
 
@@ -11,10 +11,9 @@ Baruk Khazâd! Khazâd ai-mênu!
 
 ## Technologies and techniques
 
-- Backend Java/Kotlin, Spring, SQL, PHP
-- Clean Architecture, Clean Code
+- Typescript | NestJS | GO |
+- Clean Architecture | Clean Code | Microserveces
 - Docker
-- Dialogflow
 
 ## Contact Me
 
