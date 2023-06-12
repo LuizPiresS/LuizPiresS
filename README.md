@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPiresS&layout=compact&show_icons=true&theme=gruvbox)](https://github.com/LuizPiresS)
 > ## About Me
 
-Software Engineer at Semantix
+Tech Lead at https://artisan.app/
 
 Eu não to velho só um pouco judiado, minha caveira é de um verde desbotado ...
 
